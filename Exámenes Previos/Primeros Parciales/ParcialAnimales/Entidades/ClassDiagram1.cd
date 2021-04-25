@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Entidades.Animal">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAgAAAAACAAAQAgAAAAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Vaca">
+    <Position X="0.5" Y="3.5" Width="4.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Entidades.Vaca.Clasificacion">
+        <TypeIdentifier>
+          <NewMemberFileName>Vaca.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAAAAQAgAAAAAA=</HashCode>
+      <FileName>Vaca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Caballo">
+    <Position X="4" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAgAAAAAAAAAQAgAAAAAA=</HashCode>
+      <FileName>Caballo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Cerdo">
+    <Position X="5" Y="3.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Cerdo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Campo">
+    <Position X="0.5" Y="8.5" Width="4.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Entidades.Campo.Tipo">
+        <TypeIdentifier>
+          <NewMemberFileName>Campo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAAAgEQIIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Campo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

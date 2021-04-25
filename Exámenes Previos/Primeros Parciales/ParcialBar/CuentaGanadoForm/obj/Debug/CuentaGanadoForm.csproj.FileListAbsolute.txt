@@ -1,0 +1,14 @@
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialBar\CuentaGanadoForm\bin\Debug\CuentaGanadoForm.exe.config
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialBar\CuentaGanadoForm\bin\Debug\CuentaGanadoForm.exe
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialBar\CuentaGanadoForm\bin\Debug\CuentaGanadoForm.pdb
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialBar\CuentaGanadoForm\bin\Debug\Entidades.dll
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialBar\CuentaGanadoForm\bin\Debug\Entidades.pdb
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialBar\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csprojAssemblyReference.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialBar\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.frmCuenta.resources
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialBar\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.Properties.Resources.resources
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialBar\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csproj.GenerateResource.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialBar\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csproj.CoreCompileInputs.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialBar\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csproj.CopyComplete
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialBar\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.exe
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialBar\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.pdb
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialBar\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.frmInforme.resources

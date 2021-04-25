@@ -80,7 +80,7 @@ namespace Entidades
         /// <returns></returns>
         public static bool operator +(Receta receta, Ingrediente ingrediente)
         {
-            if(receta.CapacidadLibre(ingrediente) <= receta.capacidadDelContenedor)
+            if(receta.CapacidadLibre(ingrediente) >= 0)
             {
                 receta.ingredientes.Add(ingrediente);
                 return true;

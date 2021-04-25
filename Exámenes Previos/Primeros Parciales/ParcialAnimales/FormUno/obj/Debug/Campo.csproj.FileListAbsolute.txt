@@ -1,0 +1,13 @@
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialAnimales\FormUno\bin\Debug\FormUno.exe.config
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialAnimales\FormUno\bin\Debug\FormUno.exe
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialAnimales\FormUno\bin\Debug\FormUno.pdb
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialAnimales\FormUno\bin\Debug\Entidades.dll
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialAnimales\FormUno\bin\Debug\Entidades.pdb
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialAnimales\FormUno\obj\Debug\Campo.csprojAssemblyReference.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialAnimales\FormUno\obj\Debug\FormUno.FrmPrincipal.resources
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialAnimales\FormUno\obj\Debug\FormUno.Properties.Resources.resources
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialAnimales\FormUno\obj\Debug\Campo.csproj.GenerateResource.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialAnimales\FormUno\obj\Debug\Campo.csproj.CoreCompileInputs.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialAnimales\FormUno\obj\Debug\Campo.csproj.CopyComplete
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialAnimales\FormUno\obj\Debug\FormUno.exe
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialAnimales\FormUno\obj\Debug\FormUno.pdb
