@@ -52,11 +52,11 @@ namespace Entidades
         /// <returns></returns>
         private int CapacidadLibre()
         {
-            int espacioLibre = this.capacidadDelContenedor;
-
+            int espacioLibre = capacidadDelContenedor;
+            
             foreach (Ingrediente ingrediente in ingredientes)
             {
-                espacioLibre = this.capacidadDelContenedor - ingrediente.Cantidad;
+                espacioLibre = espacioLibre - ingrediente.Cantidad;
             }
 
             return espacioLibre;
@@ -96,7 +96,7 @@ namespace Entidades
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine(String.Format($"Receta: {preparacion}"));
-            sb.AppendLine(String.Format($"Capacidad Libre {this.CapacidadLibre()}"));
+            sb.AppendLine(String.Format($"Capacidad Libre {CapacidadLibre()}"));
             sb.AppendLine(String.Format($"Capacidad Total {capacidadDelContenedor}"));
             foreach (Ingrediente ingrediente in this.ingredientes)
             {
