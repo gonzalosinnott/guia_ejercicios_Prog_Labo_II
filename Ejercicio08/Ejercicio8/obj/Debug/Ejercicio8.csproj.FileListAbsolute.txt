@@ -1,0 +1,7 @@
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.pdb
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csprojAssemblyReference.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.CoreCompileInputs.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.exe
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.pdb

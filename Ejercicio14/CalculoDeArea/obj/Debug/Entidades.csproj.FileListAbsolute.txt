@@ -1,0 +1,6 @@
+C:\Users\Gonzalo Sinnott\source\repos\Ejercicio14\CalculoDeArea\bin\Debug\CalculoDeArea.dll
+C:\Users\Gonzalo Sinnott\source\repos\Ejercicio14\CalculoDeArea\bin\Debug\CalculoDeArea.pdb
+C:\Users\Gonzalo Sinnott\source\repos\Ejercicio14\CalculoDeArea\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo Sinnott\source\repos\Ejercicio14\CalculoDeArea\obj\Debug\CalculoDeArea.dll
+C:\Users\Gonzalo Sinnott\source\repos\Ejercicio14\CalculoDeArea\obj\Debug\CalculoDeArea.pdb
+C:\Users\Gonzalo Sinnott\source\repos\Ejercicio14\CalculoDeArea\obj\Debug\Entidades.csprojAssemblyReference.cache

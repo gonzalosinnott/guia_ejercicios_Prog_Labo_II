@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Entidades.Planta">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACwACAAMAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Planta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Banano">
+    <Position X="8" Y="5.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAACQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Banano.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Arbusto">
+    <Position X="4.25" Y="6" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arbusto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Rosal">
+    <Position X="0.5" Y="4" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Entidades.Rosal.Color">
+        <TypeIdentifier>
+          <NewMemberFileName>Rosal.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rosal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Jardin">
+    <Position X="5" Y="0.5" Width="3.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Entidades.Jardin.Tipo">
+        <TypeIdentifier>
+          <NewMemberFileName>Jardin.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAEAAAAAAAAAACAEQAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jardin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

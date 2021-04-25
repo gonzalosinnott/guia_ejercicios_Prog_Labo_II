@@ -1,0 +1,7 @@
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.pdb
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csprojAssemblyReference.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csproj.CoreCompileInputs.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.exe
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.pdb

@@ -1,0 +1,7 @@
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache

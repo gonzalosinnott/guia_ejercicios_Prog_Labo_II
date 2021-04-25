@@ -1,0 +1,13 @@
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialReceta\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialReceta\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialReceta\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialReceta\FrmPrincipal\bin\Debug\Entidades.dll
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialReceta\FrmPrincipal\bin\Debug\Entidades.pdb
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialReceta\FrmPrincipal\obj\Debug\FrmPrincipal.csprojAssemblyReference.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialReceta\FrmPrincipal\obj\Debug\FrmPrincipal.frmPrincipal.resources
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialReceta\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialReceta\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.GenerateResource.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialReceta\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.CoreCompileInputs.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialReceta\FrmPrincipal\obj\Debug\FrmPrincipal.csproj.CopyComplete
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialReceta\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\ParcialReceta\FrmPrincipal\obj\Debug\FrmPrincipal.pdb

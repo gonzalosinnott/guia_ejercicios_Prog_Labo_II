@@ -1,0 +1,6 @@
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio11\Validaciones\bin\Debug\Validaciones.dll
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio11\Validaciones\bin\Debug\Validaciones.pdb
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio11\Validaciones\obj\Debug\Validaciones.csprojAssemblyReference.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio11\Validaciones\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio11\Validaciones\obj\Debug\Validaciones.dll
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio11\Validaciones\obj\Debug\Validaciones.pdb

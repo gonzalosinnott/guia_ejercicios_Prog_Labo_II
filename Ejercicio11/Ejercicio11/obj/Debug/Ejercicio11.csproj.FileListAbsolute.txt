@@ -1,0 +1,10 @@
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio11\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio11\Ejercicio11\bin\Debug\Ejercicio11.exe
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio11\Ejercicio11\bin\Debug\Ejercicio11.pdb
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio11\Ejercicio11\bin\Debug\Validaciones.dll
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio11\Ejercicio11\bin\Debug\Validaciones.pdb
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.csprojAssemblyReference.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.csproj.CoreCompileInputs.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.csproj.CopyComplete
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.exe
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\tp_laboratorio_II\Guia de Ejercicios\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.pdb
