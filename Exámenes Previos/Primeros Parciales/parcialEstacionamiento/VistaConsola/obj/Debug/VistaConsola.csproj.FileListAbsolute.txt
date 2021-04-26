@@ -1,0 +1,10 @@
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\parcialEstacionamiento\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\parcialEstacionamiento\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\parcialEstacionamiento\VistaConsola\bin\Debug\VistaConsola.exe.config
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\parcialEstacionamiento\VistaConsola\bin\Debug\VistaConsola.exe
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\parcialEstacionamiento\VistaConsola\bin\Debug\VistaConsola.pdb
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\parcialEstacionamiento\VistaConsola\bin\Debug\Entidades.dll
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\parcialEstacionamiento\VistaConsola\bin\Debug\Entidades.pdb
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\parcialEstacionamiento\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\parcialEstacionamiento\VistaConsola\obj\Debug\VistaConsola.exe
+D:\Tecnicatura_en_Programación\Laboratorio_y_Programación_II\Guia de Ejercicios\Exámenes Previos\Primeros Parciales\parcialEstacionamiento\VistaConsola\obj\Debug\VistaConsola.pdb

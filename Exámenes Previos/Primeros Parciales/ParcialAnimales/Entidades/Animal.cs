@@ -69,7 +69,6 @@ namespace Entidades
             }
 
             return sb.ToString();
-
         }
 
         #endregion

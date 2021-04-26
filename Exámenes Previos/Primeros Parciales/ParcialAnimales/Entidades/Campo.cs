@@ -42,10 +42,9 @@ namespace Entidades
         #endregion
 
         #region Propiedades
-
         public Tipo TipoServicio
         {
-            set { Campo.servicio = value; }
+            set { servicio = value; }
         }
 
         #endregion
